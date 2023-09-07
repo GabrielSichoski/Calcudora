@@ -17,7 +17,7 @@
     retornar de acordo com o teste feito.
 
 
-![image (1)](https://github.com/GabrielSichoski/Calcudora/assets/104863390/e802bec0-a37c-4794-96d0-71c9475b8302)
- ![image](https://github.com/GabrielSichoski/Calcudora/assets/104863390/0b55775b-38f2-48d5-95d0-73706a0ce502)
+
+![image (2)](https://github.com/GabrielSichoski/Calcudora/assets/104863390/e291c02e-aed7-487d-a44a-507162abb479)
 
 

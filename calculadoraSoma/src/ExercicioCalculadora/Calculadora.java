@@ -33,23 +33,32 @@ public class Calculadora {
         
         divs = div.divisao(10,- 2);
         System.out.println(divs);
+        
         //# Teste de divisão, dois numeros inteiros negativos. Resultado 5 ocorreu como esperado
         divs = div.divisao(-10,- 2);
         System.out.println(divs);
+        
         //# Teste de multiplicacao dois numeros positivos. Resultado 20 ocorreu como esperado
+        
         Multiplicar mult = new Multiplicar();
         int multi = mult.multiplicacao(10, 2);
         System.out.println(multi);
+        
         //#Teste de multiplicação numero positivo multiplicado numero negativo. Resultado menos -20 ocorreu como esperado
+        
         multi = mult.multiplicacao(10, -2);
         System.out.println(multi);
         
         //# Teste de multiplicação numeros negativos. Resultado 20 ocorreu como esperado
+        
         multi = mult.multiplicacao(-10, -2);
         System.out.println(multi);
+        
         //#Teste de multiplicação numero positivo com 0. Resultado erro
+        
         multi = mult.multiplicacao(10, 0);
         System.out.println(multi);
+        
         //#Teste de divisão, Um numero inteiro positivo dividido por 0, Resultado Erro
         
         divs = div.divisao(10, 0);

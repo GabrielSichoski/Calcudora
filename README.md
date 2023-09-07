@@ -15,4 +15,13 @@
   
     O usuario deve, colocar os valores que deseja em java, o teste vai
     retornar de acordo com o teste feito.
-            
+
+div align="center"
+img src=" ![image (1)](https://github.com/GabrielSichoski/Calcudora/assets/104863390/e802bec0-a37c-4794-96d0-71c9475b8302)
+ " width="0px" /
+/div
+div align="center"
+img src=" ![image](https://github.com/GabrielSichoski/Calcudora/assets/104863390/0b55775b-38f2-48d5-95d0-73706a0ce502)
+ " width="0px" /
+/div
+

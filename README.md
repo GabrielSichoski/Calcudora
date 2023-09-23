@@ -18,11 +18,13 @@ retornar de acordo com o teste feito.
 
 ## Soma e Subtração
 
-![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/fa306db2-2897-4727-b807-81d023b50245)
+![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/5667232a-2aef-4234-8e99-f3b6c5f35aa2)
+
 
 ## Divisão e Multiplicação
 
-![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/5b0d7520-700b-4afc-a4e3-34710a8d9567)
+![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/9b4e74ac-65ba-4d6b-b5a4-a6509485770e)
+
 
 ## Conclusão
   A calculadora funcionou de forma correta  o unico erro notado foi na divisão por 0

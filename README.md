@@ -16,11 +16,17 @@ dos resultados das mesmas.
   O usuario deve, colocar os valores que deseja em java, o teste vai
 retornar de acordo com o teste feito.
 
+## Soma e Subtração
 
+![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/fa306db2-2897-4727-b807-81d023b50245)
+
+## Divisão e Multiplicação
+
+![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/5b0d7520-700b-4afc-a4e3-34710a8d9567)
+
+## Conclusão
+  A calculadora funcionou de forma correta  o unico erro notado foi na divisão por 0
+
+Resultado das operações feitas
 
 ![image (2)](https://github.com/GabrielSichoski/Calcudora/assets/104863390/e291c02e-aed7-487d-a44a-507162abb479)
-
-
-Resultados das operações feitas
-
-![image](https://github.com/GabrielSichoski/Calculadora/assets/104863390/5085e982-4d59-47c7-b5c6-a7d66853f12e)
